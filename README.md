@@ -1,4 +1,8 @@
 # ProjektChorobyZakazne
+##DEADLINE 13.01.2026 WYSŁANIE KOMPLETNEJ PRACY.
+## 20.01.2026 PREZENTACJA O GODZ.13:30 SALA 105
+
+
 Analiza i modelowanie dynamiki chorób zakaźnych w Europie na podstawie danych ECDC
 
 
