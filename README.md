@@ -17,6 +17,7 @@ Konstrukcja modelu regresyjnego przewidującego współczynnik zapadalności w k
 
 
 Prezentacja: https://docs.google.com/presentation/d/1vNR_EW6dVKXqNUNAIC2QE9y6yzLXGaGvQzI2-ep-FtA/edit
+
 Artykuł EDA: https://docs.google.com/document/d/1DsDG213LW3cno6uIhxi8vT9k3oZPOaxbdyisnvfeG-o/edit?tab=t.0
 
 
