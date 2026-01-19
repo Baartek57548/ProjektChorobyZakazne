@@ -20,6 +20,7 @@ Prezentacja: https://docs.google.com/presentation/d/1vNR_EW6dVKXqNUNAIC2QE9y6yzL
 
 Artykuł EDA: https://docs.google.com/document/d/1DsDG213LW3cno6uIhxi8vT9k3oZPOaxbdyisnvfeG-o/edit?tab=t.0
 
+Analiza: https://docs.google.com/document/d/1xkOipy4r-JPxMDW0zWanblqGV2l0M5U05MSuOrjjhDY/edit?fbclid=IwY2xjawPbEvNleHRuA2FlbQIxMABicmlkETBQbEFRbGc5cm04OFNDVEJRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrx_nA22rNECipajuHISLjj3uABAqkzzPzJ4t1gmsgcKrfJgi8OAHJhPNM-0_aem_CSr1mfUPVjHGgzTYp1Uu8w&tab=t.0#heading=h.k81xmo4f6391
 
  1. Kacper – Pozyskanie i przygotowanie danych
 Checklist
